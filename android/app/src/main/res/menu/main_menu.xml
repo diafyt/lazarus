@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="@string/item_title_diafyt_website"
+        android:id="@+id/action_open_diafyt_website"
+        android:orderInCategory="200"
+        app:showAsAction="never" />
+    <item android:title="@string/item_title_lazarus_website"
+        android:id="@+id/action_open_lazarus_website"
+        android:orderInCategory="300"
+        app:showAsAction="never" />
+</menu>

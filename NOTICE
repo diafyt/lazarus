@@ -1,0 +1,37 @@
+diafyt Lazarus
+Copyright 2020 pg40 Consulting Group GmbH and Lazarus contributors
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+
+Components with differing origin or status:
+
+* The name diafyt is a property of pg40 Consulting Group GmbH.
+
+* The Font Tekton Pro is a property of Adobe Systems Incorporated.
+
+  It is contained in the files tektonpro*.otf in this project.
+
+* The depiction of Lazarus is in the public domain. It was obtained from
+  Wikimedia at [1].
+
+  It is contained as lazarus_depiction.png in this project.
+
+  [1] https://commons.wikimedia.org/wiki/File:Zimmermann_The_raising_of_Lazarus.jpg
+
+* The embedded component is based on code by Texas Instrument
+  Incorporated. It can be retrieved at [2].
+
+  This includes everything in the folder embedded/
+
+  [2] http://e2e.ti.com/support/wireless-connectivity/other-wireless/f/667/p/432715/1571230#1571230
